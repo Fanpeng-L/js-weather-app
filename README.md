@@ -8,4 +8,4 @@ Just insert your city and hit enter or click the search button, you will get the
 
 Preview:
 
-<img src="weather app preview.gif" alt="weather app preview" width="700">
+<img src="weather app preview.gif" alt="weather app preview" width="500">
